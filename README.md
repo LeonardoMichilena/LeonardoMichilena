@@ -13,4 +13,4 @@ Here are some facts to get to know me better:
 - 😄 Pronouns: ... just call me by my name ;)
 - ⚡ Fun fact: ... sometimes I can't code if someone is watching... 
 
-and remember: don't judge a programmer by his README!
+and remember: don't judge a programmer by their README!
