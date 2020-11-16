@@ -5,7 +5,7 @@
 
 -->
 
-Here are some ideas to get you started:
+Here are some facts to get to know me better:
 
 - 🌱 I’m currently working on improving my Coaching skills,  also going deeper with Angular based projects, backend basics with Firebase, and mobile adaptation
 - 💬 Ask me about ... how/where to start learning code or how to improve your programming skills, and not give up along the way!
