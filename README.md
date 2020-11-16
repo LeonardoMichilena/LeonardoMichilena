@@ -3,6 +3,8 @@
 <!--
 **LeonardoMichilena/LeonardoMichilena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+-->
+
 Here are some ideas to get you started:
 
 - 🌱 I’m currently working on improving my Coaching skills,  also going deeper with Angular based projects, backend basics with Firebase, and mobile adaptation
@@ -12,5 +14,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... sometimes I can't code if someone is watching... 
 
 and remember: don't judge a programmer by his README!
-
--->
