@@ -7,7 +7,7 @@
 
 Here are some facts to get to know me better:
 
-- 🌱 I’m currently working on improving my coaching skills,  also going deeper with Angular based projects, backend basics with Firebase, and mobile adaptation
+- 🌱 I’m currently working on learning React, improving my coaching skills,  also going deeper with Angular based projects, backend basics with Firebase, and mobile adaptation
 - 💬 Ask me about ... how/where to start learning code or how to improve your programming skills, and not give up along the way!
 - 📫 How to reach me: leonardomichilena@gmail.com
 - 😄 Pronouns: ... you can call me by my name ;)
